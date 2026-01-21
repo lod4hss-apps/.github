@@ -15,12 +15,14 @@
 
 ### OntoME
 
-This app allows the collaborative management of shared conceptual models and extension of existings ones.
+This app allows the collaborative management of shared conceptual models and the extension of existings ones.
+
+Devoted APIs allow to download the conceptual models in form of namespaces serialized in RDFS or OWL, or collections of them.
+
+In OntoME you can also manage application profiles (as a subset of classes and properties in a coherent namespaces collection) and download them as JSON or SHACL. 
 
 
 OntoME is not an application that you would install for your own project, mais a community online service where you can collaboratively work on ontology development.
 
 
-You'll find the [running share instance here](https://ontome.net).
-
-And the [application repository here](https://github.com/lod4hss-apps/ontome).
+You'll find the [running shared instance here](https://ontome.net). And the [application repository here](https://github.com/lod4hss-apps/ontome).
